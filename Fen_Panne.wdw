@@ -1,0 +1,103 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : Fen_Panne
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : Fen_Panne
+ identifier : 0x3cc534937253e20a
+ internal_properties : CAAAAAgAAAAlUi4ioDBOGMB1bMfVUd6I0vT5fJ+vRT76/mJ+A+V1cxe2oV5q3L7FOcpQN1ped2OlO+0CQ3q+j2LeC9YNYEP7OUUQke5xRNWpBtUfGw3hLFQwS+hrS7m9118h+su4MotsRwGpNAH83+gqe3cPVx6hoiHIGzVpCAbv0obzawJhxtELsSrQEMvaFUutFC7CfhFu0CVVXKpQ1H6LxCr6xMEuEVdnlvhNSzEGofQqnQXHoHgxbBURPiy+KfMFGU1zupMf1oWTqRpU7L/HamQSuNM7fftTJvTMOmUevTxnXV0P1rla0cZMT7hqUgvi2p2i5aU/f8r4BJAqNNP13dCTosNTC7UiKrf0bsxySQbSDpALHna332qXSS1/vKJh5PUKE/owWhl+tYT7hJLdxELoL6MY+/4EFND+gcCf70MrRvYZFt04bn6jZYOQNSoGzcGUOxwMZPcHNoyyWqjhQfZYfBpjQqRCXRgTvElZOq26gFwQY+iLbRcOvGm9U+v2aNSj0BviKckrylkoC2EeF3mjorinBCiuHZHzE4pNbbubkBlzruOkIauyPdKYehG3gIUvENV5plLK1hYqXqhZItDx94RcX6Bs/JCwa0JxMruZP/1uniHs87aIlIlRn+MDGT6K2QjVbSZlKK+nxF987zhSnTYsSsejaLsmSeCUOjK9602cV5UzzOT8j9d+P8QhK+w0TcUwOfi0zWbHVKiWCqgQb4msKw6cUpbM6R1A1BRtG0HaUniNcUmdx84Ni9eLGYMp22sYsiS4SRIFC7xal5XDyRIh
+ properties :
+  width : 628
+  height : 184
+  widthClient : 622
+  heightClient : 178
+ controls :
+  -
+    name : LIBELLE1
+    identifier : 0x3cc534933a1ae219
+    internal_properties : CAAAAAgAAACUTPLuVBRAc3rS+2aooGyMtAvhqWY4TcJjf1pR8SE7QIraWnL4mJAO01dSZFzHtMuZYVob46FlOpbb+KJof9dnWphwJjUKrVPLbTGssdaHIDYAYVneGnY854VoOA3aOVqhGEALyWT3kODypyFQ55ZaLnjpetssk1fm9T5IYNfpTNeaYtpVQX+qo88I/RDEUlIHnejgtGSzO0cKLK4HmnPg2ASWoS6XmdciPZEWSvP87MBua6GRUxo7SaAvwjOx95ZBzmaw/0VwrxJXS/YUdz+Lv/vUYVztawAusg4kb09zh80ljIm7tg01DkaHaHXECipmy8FdMolhJXY1t0hhwHu/5nTK+tIlCpJrn2Zn3b18JMNT7yrxPyWV9RpYnldmsUthIGWOywk5XfVKIIWZb2uGoPtSj5N9skjILvG28I0CJhR7J7gSJwby5VBhpfmWMPtFar3GFq1uFDhLfXzJKUHiTCZiVyL2TlLcKXJnlT7LI7VoQ09lipXlrCnjaUHAgm/7pOdu0DzrIP7/jUhx+wW1LTfjg9GK4PocOLuIUXB6Seg4Jmeb7czSYWjzaylGOA3w3bzK21soVhCe98i0VgmsR1rv4aBytwpzJ0hT
+    properties :
+     width : 627
+     height : 37
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : Libellé3
+    identifier : 0x3cc53493737ee219
+    internal_properties : CAAAAAgAAADr3aku7HSwWnuZ93u0qnpV6skW3GUMz4NTaszZuygkEJRWlL2J6aDwq0o8BHZbVRcMtmqGtlLTL21B+kOldbx7lZawTfhFBYM2gbY10oaitzkWPKJbc+n98q9/dgwKl/MirBIEqkNr2tnLepjBpK2NaO7Sa1zNbcKBN7mykX2niTp4aFAIg8WgL1MrYcJr5/CkXqCWZpXQylkd94HhcQHMEaVM+I7/Od3X/eluVDRLqFcodlRsB24088Cg1595zh0SR4HC6NLZvghioh+iEBduayz36aUUKuMj1Y7U1Os2fK2QZ4v0MzQE+Qz5FsOGlPgwr7pKUQlwFUuonHic0XMsq9DEQTdn/VxlmPLYsF4Ia3gKWbaRD+Ap9fLWwG0qoeqqoZ5hf1M9HfH9G6aygEBXerU/NfcA6EvrlnEqHsG5Jrqyi4zoAhzzzGSGmf0iczQd6J+uzzXAb6YUfiRlUpBEfxzUZZaTm1FoGESQpkalv7F0H6MMmWq6FhBhilUCc1nG+dxWFPESZHgqAiIodJntoKZy/OJTNKIValG2JiWmZt/MKrHj2zsRir7guAbQIWUonVirohkE9TkYaFt5CFaNPJ1uf6r6OKXTe/nkLlBA0Z7RF1LSCn6iaA01YRCzsrUmLhoYJ4aYZp0TFsL91IUaYl+EYZFdsYoXOCBgjKXqELDhbpUQ5MUye0MNkoeEA/Dq38SASG968b/HeWq4+REldzY8tnmD7QFOve6ocpxFzjWeQlhEMwuBnyJ4KbTu/LmoQNqCtTNLPAO1jvhbuKUauQz6GfX4ueDNPOvAVVYg/PLWbvPNSALQydFKsqlPMDts78pkqbGzyStFZWV+PGhUBnPQ2973cEOJAm0CKI9RNN28pSdpW/piCaGPQ3wEDYtcd5eJ4EWJSHUehjo8RiKSJHK6zkaWAZ5be/5OhEcIFiDT8ApDNac7wDi7C3gPXalVDYG5bs3qk7kAVS3W8sRpoewElY5Vnuh6gMdCZw1K8+8Gm37Pqlf8fdDw6NItCEUQ63D2iNQXRP8ENA5mlOcP3Xi7SNnqSmKIsUCCCr5d6SvfigkZfd/SRT5y3LKQG2tPnpv9jFCrsjvvoB0PuD3UKaIPzkmmDmfpoHKU8A==
+    properties :
+     x : 5
+     y : 43
+     width : 611
+     height : 129
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_SansNom1
+    identifier : 0x285915ab0ee829fe
+    internal_properties : CAAAAAgAAADC6XT1qdi3OqhQaoe7TJhfbCpkPoYifsaV9ViCnuP2qXlbZ7YP7GI7hw+LrlogTfZxAsV3EQoS6rSzzLNU2m0Z3H2DLBjDuyCnbow5hcVv78Mz/s3uQ/YpA0uGVUhKDup4hNks8By1ss34w4P2Wc7lw/Yb4Wuh1nYcvnEwa5H0qVmPuGlYefLKe3UUm5FzqiYUhrUQG3WTvdZWrh/01Wp0k6Fuo5dJclGMqUzh0uSNBOzFDWqIzzvbaxoacdxAf0i1rYtUdLuyQxCrgLSYx6xJ2py+g8rkzyHc6cuGEcEdqWWoaOxWz0fHCgsuULvm7UHqDy6yB86tgb+ZRnR2viXkuqdZVofjCxuMtTTJppHjlM8WPiPJv2O81cuGlNv7U5VQctimd2iYd3yabU9U/BMGmBuMIJPcYOWQAAidNN7dCg11qyQi730uatoV+yKhftgvfXEUKd0IyuPmWNE1RNv0FENKSu4r9Kra6NhTFr2t6uhpe+m9/13LmUlp/0Hw1+IJJa83s19MPwnRBOax10rff1wlwfmCkbbMz1kM1MMog2bRfIBYkri4o0oeG3mMlX8N1t0t1A2mOwgkrjuBZSOnfHzD57yP4XInR7gxmLMvDrs8TyeIpxkqJ1rX1Sek1DVlG8xLyVS8YYXm+YTIk4r770crNX2CYYmHu5BJ5Tkj0NbkX29gpNO3hDaeMc232q9N5ai10P48hZavRDybOH6MxCDBpY0+nlO4g5p32+HnLroNS0rO+kxSq4JarbvnhQTUchoeAODUo8VRtgA13S9ZQUdSyYP8aQ22PvqQPEv32sjc+/6u0hiVz+JXYilI8UrqsJ2bebjQUwTal0DUEIfS4MRQeyzTj3uRJ7iD7es/pKmk+CEhpY6krmGz4gIjZBbBlCCmw1LUKcZCe+OrfK4q84Bzht1qZfztDGEld8x8+Yra8SMr143Zg0QOj0FsjQMd44nTmsPwrcJtktg/evqT1nDGPaFLiyg2518szBf4/XmAnVnd
+    properties :
+     x : 592
+     y : 6
+     width : 24
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         SI OuiNon("Si vous souhaiter réellement simuler une panne, vous devez impérativement éteindre votre machine ou tuer brutalement la tâche.","Souhaitez-vous quand même annuler la transaction ?") ALORS
+         	Ferme()
+         FIN
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x3cc5349338aee219
+  internal_properties : CAAAAAgAAADAfZ27Q+jJ/MBXHLGCb7PyE2Yqjvuo9mAX2ZN+LLuyQtzms1431znXR0sNCCeLESXZp1gqmo+m2mUhb2ELR2phZ8VOgUSyXddfQyxpxffipvH/iiFuFkCLgpjx1Ah9/9/ndeRpWb0s9Qcjy8oPtW3aMcRtuglgDe5Ch9/jnC/Drp19/hhf+qz96diLw5T0yWlzg33c/E8hhMwUBdSOV69/8iDQGLfTvLoTvV3YkiQ5Dce7dxB2gUx1AVvVTykQMm7G+0haIOV568KMGgPEJluRN2XjgQ11Tb8vVxt6P2g=
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAADexrZv0LFlUi5Vo+kfTpznP3n3zahDX7wEFNbP03Xx/LnLA8TG4wM8Em3ECRIEfdVqp96kkHrAUxiZMWM4OXTWH5TtFl6nCcXGcTxJ/NveoFIabUWyzQTdxbJUFExp
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+resources :
+ string_res :
+  identifier : 0x1fc4cea409722446
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
